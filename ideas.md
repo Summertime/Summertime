@@ -1,4 +1,5 @@
-## `toned` - Tone Daemon
+## `toned`
+*Tone Daemon*
 
 the destroyer of devices that duck audio when silent
 
